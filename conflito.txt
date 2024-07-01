@@ -1,2 +1,2 @@
 1 info
-2 info > branch-a
+2 info > branch-b
